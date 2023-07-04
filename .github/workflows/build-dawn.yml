@@ -20,6 +20,7 @@ jobs:
         id: build
         shell: cmd
         run: call build.cmd
+        
 
       - name: release
         id: release
