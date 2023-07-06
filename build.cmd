@@ -89,7 +89,7 @@ cmake                                         ^
   -D BUILD_SHARED_LIBS=OFF                    ^
   -D BUILD_SAMPLES=OFF                        ^
   -D DAWN_ENABLE_D3D12=ON                     ^
-  -D DAWN_ENABLE_D3D11=OFF                    ^
+  -D DAWN_ENABLE_D3D11=ON                     ^
   -D DAWN_ENABLE_NULL=OFF                     ^
   -D DAWN_ENABLE_DESKTOP_GL=OFF               ^
   -D DAWN_ENABLE_OPENGLES=OFF                 ^
